@@ -1,0 +1,2 @@
+# Lomb
+Lomb-Scargle
